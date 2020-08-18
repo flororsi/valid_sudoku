@@ -1,17 +1,3 @@
-# Technical Challenge
-### Technical Requirements
-- All the code should be covered by test.
-- You should use appropriate names for classes, methods and variables.
-- You can use any public package.
-- SOLID principles must be assured as much as possible.
-- Code must be uploaded to a public repository in Github.
-- Tidiness is as important as correctness.
-
-
-Bonus points:
-- Use of Docker.
-
-
 ## Sudoku Validator
 #### Sudoku Background
 Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9,
